@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 1: Launching One Month Project"
+date:   2016-12-01 12:00:00 +0000
+tags: [startup]
+---
+
+Hi there,
+
+Developers at DayOne.pl here. After years of experience creating enterprise software, we’ve decided to leave our cushy corporate jobs and start on our own.
+Good move, but without any visible portfolio it may be hard to convince potential clients to work with us.
+
+That’s why we have decided to start One Month Project. Inspired by internet gurus like [Amy Hoy](https://unicornfree.com/just-fucking-ship/), [Steli Efti](http://blog.close.io/entrepreneurship-why-you-should-make-the-jump), [Nathan Barry](http://nathanbarry.com/24hours/) etc. We are launching a challenge to deliver 3 mobile apps in one month. 
+
+We’re going to start from ground up. Currently, we have just bare ideas and we want to make them happen by the end of this year. Forget about New Year’s resolution. We want to create apps before anyone is going to make their own resolution. We’ll develop and deploy those apps in just 30 days. 
+
+What’s in it for you? We’d like to show you how a whole process looks like. We want to present how mobile apps or any app development looks from the inside (we are talking real life programming here, full of clever hacks and workarounds, not some well rehearsed polished tutorials). We will post every day to give you our thoughts and progress (or lack of it). We want to share as many design decisions as possible. Each time we will provide our reasons for it. This way you can learn from our mistakes and repeat only successful steps. 
+
+Fasten your seat belts and don’t get fooled by the internet that tells you, that you can become a millionaire from your home. See you tomorrow when we’ll post our amazing app ideas! (You don’t even have to sign NDA !)
+
+Stay tuned!
