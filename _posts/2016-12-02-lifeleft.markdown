@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Introducing Life Left"
+date:   2016-12-02 12:00:00 +0000
+tags: [startup]
+author: Bartek
+---
+
+Hi there,
+
+As you know, we're going to create 3 mobile apps during a month. Let's talk about our first idea: Life Left.
+
+Have you ever consider how much time is left until the end of your life? Have you ever wonder why another day is over, you haven't done anything useful, exciting or interesting and you feel like you've wasted your day? I got that feeling many times and one way to overcome this is to keep journaling. It motivates me to make at least one important thing a day, just to keep moving forward. Still keeping a journal is hard, because it requires writing quite a bit each and every day. That's why we need something easier and simpler.
+
+### Meet Life Left
+
+The idea is really simple. Based on your date of birth and extremely sophisticated, cloud-based algorithms with AI (shortly statistic) we calculate how many days are left until the end. Every day you see that time is ticking and the number of days is always decreasing. You're asked to give few words about what have you done meaningful during that day. We'll keep those entries to review for you, thus keep you motivated about days to come.
+
+If you believe that it needs 10.000 hours to master any skill, there are more or less 4 skills you can easily master throughout your life. But to become proficient, you need to go forward every day.
+
+Eat broccoli & workout
