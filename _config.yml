@@ -12,7 +12,7 @@ email: contact@dayone.pl
 description: OneMonthProject - 3 developers building 3 separate mobile apps in 30 days
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://onemonthproject.com" # the base hostname & protocol for your site
-twitter_username: 1mthproject,
+twitter_username: 1mthproject
 keywords: "onemonth,developers,project,experiment,mobile,apps,ios,android,react,native,react native,small studio,custom software,software"
 
 # Build settings
