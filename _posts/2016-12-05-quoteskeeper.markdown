@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Quotes Keeper"
 date:   2016-12-05 12:00:00 +0000
-tags: [startup]
+tags: [startup, quoteskeeper]
 author: Maciek
 ---
 
